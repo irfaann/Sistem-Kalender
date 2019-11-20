@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1527761069 source:e:\alpro\kalender\1_cetak_kalender.c
+	"header.h"
+
+1527813348 e:\alpro\kalender\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1527681492 source:e:\alpro\kalender\2_tambah_kegiatan.c
+	"header.h"
+
+1527829860 source:e:\alpro\kalender\3_tampil_kegiatan.c
+	"header.h"
+
+1527775719 source:e:\alpro\kalender\4_cari_kegiatan.c
+	"header.h"
+
+1527776871 source:e:\alpro\kalender\5_hapus_kegiatan.c
+	"header.h"
+
+1527775029 source:e:\alpro\kalender\sorting.c
+	"header.h"
+
+1527776473 source:e:\alpro\kalender\main.c
+	"header.h"
+
+1527761069 source:d:\kalender (2)\kalender\1_cetak_kalender.c
+	"header.h"
+
+1527909293 d:\kalender (2)\kalender\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1527923384 source:d:\kalender (2)\kalender\2_tambah_kegiatan.c
+	"header.h"
+
+1527920992 source:d:\kalender (2)\kalender\3_tampil_kegiatan.c
+	"header.h"
+
+1527921019 source:d:\kalender (2)\kalender\4_cari_kegiatan.c
+	"header.h"
+
+1527923562 source:d:\kalender (2)\kalender\5_hapus_kegiatan.c
+	"header.h"
+
+1527922668 source:d:\kalender (2)\kalender\main.c
+	"header.h"
+
+1527775029 source:d:\kalender (2)\kalender\sorting.c
+	"header.h"
+
+1527761069 source:d:\kalendah\kalender\1_cetak_kalender.c
+	"header.h"
+
+1527909293 d:\kalendah\kalender\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1527951184 source:d:\kalendah\kalender\2_tambah_kegiatan.c
+	"header.h"
+
+1527920992 source:d:\kalendah\kalender\3_tampil_kegiatan.c
+	"header.h"
+
+1527921019 source:d:\kalendah\kalender\4_cari_kegiatan.c
+	"header.h"
+
+1527923562 source:d:\kalendah\kalender\5_hapus_kegiatan.c
+	"header.h"
+
+1527924549 source:d:\kalendah\kalender\main.c
+	"header.h"
+
+1527775029 source:d:\kalendah\kalender\sorting.c
+	"header.h"
+
+1527761069 source:d:\kalendah1\kalendah\kalender\1_cetak_kalender.c
+	"header.h"
+
+1527909293 d:\kalendah1\kalendah\kalender\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1527951184 source:d:\kalendah1\kalendah\kalender\2_tambah_kegiatan.c
+	"header.h"
+
+1527920992 source:d:\kalendah1\kalendah\kalender\3_tampil_kegiatan.c
+	"header.h"
+
+1527921019 source:d:\kalendah1\kalendah\kalender\4_cari_kegiatan.c
+	"header.h"
+
+1527923562 source:d:\kalendah1\kalendah\kalender\5_hapus_kegiatan.c
+	"header.h"
+
+1527924549 source:d:\kalendah1\kalendah\kalender\main.c
+	"header.h"
+
+1527775029 source:d:\kalendah1\kalendah\kalender\sorting.c
+	"header.h"
+
